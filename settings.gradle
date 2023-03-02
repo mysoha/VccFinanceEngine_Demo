@@ -1,0 +1,3 @@
+
+rootProject.name = "VccFinance Engine Demo"
+include ':app'
